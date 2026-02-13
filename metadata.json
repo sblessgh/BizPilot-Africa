@@ -1,0 +1,7 @@
+{
+  "name": "Copy of BizPilot Africa",
+  "description": "A comprehensive inventory and sales management system for African small businesses, featuring real-time stock tracking, sales recording, and AI-powered product insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
